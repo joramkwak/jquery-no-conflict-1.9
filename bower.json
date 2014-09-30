@@ -1,0 +1,24 @@
+{
+  "name": "jquery-no-conflict-1.9",
+  "version": "1.0.0",
+  "authors": [
+    "Joram Kwak <jkwak@pixafy.com>"
+  ],
+  "description": "jQuery 1.9 build without $ global export",
+  "main": "./jquery.js",
+  "keywords": [
+    "jquery",
+    "jquery",
+    "no",
+    "conflict"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
